@@ -1,0 +1,24 @@
+[
+    {
+        "id": 2,
+        "timestamp": "2026-09-12T08:47:41.278520",
+        "type": "DROWNING",
+        "confidence": 100.0,
+        "duration": 128.98,
+        "alarm": "ON",
+        "iot": "DISCONNECTED",
+        "sms": "READY",
+        "status": "CONFIRMED"
+    },
+    {
+        "id": 1,
+        "timestamp": "2026-09-11T19:00:41.814254",
+        "type": "DROWNING",
+        "confidence": 100.0,
+        "duration": 25.55,
+        "alarm": "ON",
+        "iot": "DISCONNECTED",
+        "sms": "READY",
+        "status": "CONFIRMED"
+    }
+]

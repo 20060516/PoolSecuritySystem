@@ -1,0 +1,13 @@
+Flask
+Flask-Cors
+tensorflow
+opencv-python
+numpy
+Pillow
+pyserial
+pygame
+twilio
+python-dotenv
+Flask
+flask-cors
+requests

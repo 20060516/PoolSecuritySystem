@@ -1,0 +1,5509 @@
+{
+    "total_predictions": 1801,
+    "total_drowning": 1205,
+    "total_safe": 596,
+    "confidence_history": [
+        {
+            "timestamp": "2026-09-16T21:21:41.363372",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 489.05
+        },
+        {
+            "timestamp": "2026-09-16T21:21:42.172698",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 551.41
+        },
+        {
+            "timestamp": "2026-09-16T21:21:42.721104",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 353.4
+        },
+        {
+            "timestamp": "2026-09-16T21:21:43.487373",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 621.74
+        },
+        {
+            "timestamp": "2026-09-16T21:21:44.265502",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 490.09
+        },
+        {
+            "timestamp": "2026-09-16T21:21:45.042448",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 402.94
+        },
+        {
+            "timestamp": "2026-09-16T21:21:45.603495",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 366.05
+        },
+        {
+            "timestamp": "2026-09-16T21:21:46.319403",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 521.08
+        },
+        {
+            "timestamp": "2026-09-16T21:21:47.227962",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 736.89
+        },
+        {
+            "timestamp": "2026-09-16T21:21:47.965206",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 472.77
+        },
+        {
+            "timestamp": "2026-09-16T21:21:48.640885",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 352.59
+        },
+        {
+            "timestamp": "2026-09-16T21:21:49.295400",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 502.21
+        },
+        {
+            "timestamp": "2026-09-16T21:21:49.802110",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 355.9
+        },
+        {
+            "timestamp": "2026-09-16T21:21:50.591960",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 543.32
+        },
+        {
+            "timestamp": "2026-09-16T21:21:51.164825",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 354.67
+        },
+        {
+            "timestamp": "2026-09-16T21:21:51.801711",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 401.92
+        },
+        {
+            "timestamp": "2026-09-16T21:21:52.750922",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 736.28
+        },
+        {
+            "timestamp": "2026-09-16T21:21:53.367561",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 466.51
+        },
+        {
+            "timestamp": "2026-09-16T21:21:54.076852",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 470.57
+        },
+        {
+            "timestamp": "2026-09-16T21:21:54.637773",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 347.15
+        },
+        {
+            "timestamp": "2026-09-16T21:21:55.669199",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 889.36
+        },
+        {
+            "timestamp": "2026-09-16T21:21:56.481210",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 651.6
+        },
+        {
+            "timestamp": "2026-09-16T21:21:57.233653",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 513.88
+        },
+        {
+            "timestamp": "2026-09-16T21:21:57.631510",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 233.11
+        },
+        {
+            "timestamp": "2026-09-16T21:21:58.367429",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 579.16
+        },
+        {
+            "timestamp": "2026-09-16T21:21:58.964274",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 358.82
+        },
+        {
+            "timestamp": "2026-09-16T21:21:59.706081",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 487.64
+        },
+        {
+            "timestamp": "2026-09-16T21:22:00.537665",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 652.8
+        },
+        {
+            "timestamp": "2026-09-16T21:22:01.440776",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 660.16
+        },
+        {
+            "timestamp": "2026-09-16T21:22:02.266053",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 514.57
+        },
+        {
+            "timestamp": "2026-09-16T21:22:03.037232",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 358.04
+        },
+        {
+            "timestamp": "2026-09-16T21:22:03.951224",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 524.61
+        },
+        {
+            "timestamp": "2026-09-16T21:22:04.474780",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 354.13
+        },
+        {
+            "timestamp": "2026-09-16T21:22:05.234658",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 605.05
+        },
+        {
+            "timestamp": "2026-09-16T21:22:06.037751",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 478.06
+        },
+        {
+            "timestamp": "2026-09-16T21:22:06.559345",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 346.98
+        },
+        {
+            "timestamp": "2026-09-16T21:22:07.444203",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 712.11
+        },
+        {
+            "timestamp": "2026-09-16T21:22:08.377536",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 769.45
+        },
+        {
+            "timestamp": "2026-09-16T21:22:09.173088",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 623.95
+        },
+        {
+            "timestamp": "2026-09-16T21:22:09.771581",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 359.86
+        },
+        {
+            "timestamp": "2026-09-16T21:22:10.393531",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 389.18
+        },
+        {
+            "timestamp": "2026-09-16T21:22:10.808892",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 252.49
+        },
+        {
+            "timestamp": "2026-09-16T21:22:11.521920",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 369.71
+        },
+        {
+            "timestamp": "2026-09-16T21:22:12.299008",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 631.7
+        },
+        {
+            "timestamp": "2026-09-16T21:22:12.908940",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 464.34
+        },
+        {
+            "timestamp": "2026-09-16T21:22:13.662446",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 546.24
+        },
+        {
+            "timestamp": "2026-09-16T21:22:14.571314",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 665.14
+        },
+        {
+            "timestamp": "2026-09-16T21:22:15.272520",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 470.82
+        },
+        {
+            "timestamp": "2026-09-16T21:22:16.263672",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 761.52
+        },
+        {
+            "timestamp": "2026-09-16T21:22:16.725360",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 318.1
+        },
+        {
+            "timestamp": "2026-09-16T21:22:17.438210",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 537.45
+        },
+        {
+            "timestamp": "2026-09-16T21:22:18.330712",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 501.82
+        },
+        {
+            "timestamp": "2026-09-16T21:22:18.830289",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 340.31
+        },
+        {
+            "timestamp": "2026-09-16T21:22:19.319010",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 339.28
+        },
+        {
+            "timestamp": "2026-09-16T21:22:19.861047",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 370.21
+        },
+        {
+            "timestamp": "2026-09-16T21:22:20.448308",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 347.7
+        },
+        {
+            "timestamp": "2026-09-16T21:22:21.062000",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 352.24
+        },
+        {
+            "timestamp": "2026-09-16T21:22:21.823531",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 566.64
+        },
+        {
+            "timestamp": "2026-09-16T21:22:22.332094",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 357.02
+        },
+        {
+            "timestamp": "2026-09-16T21:22:22.813872",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 343.02
+        },
+        {
+            "timestamp": "2026-09-16T21:22:24.303070",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1098.91
+        },
+        {
+            "timestamp": "2026-09-16T21:22:24.823587",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 365.42
+        },
+        {
+            "timestamp": "2026-09-16T21:22:25.431177",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 436.55
+        },
+        {
+            "timestamp": "2026-09-16T21:22:26.079237",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 476.69
+        },
+        {
+            "timestamp": "2026-09-16T21:22:26.993135",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 485.43
+        },
+        {
+            "timestamp": "2026-09-16T21:22:27.816650",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 634.29
+        },
+        {
+            "timestamp": "2026-09-16T21:22:28.671739",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 410.2
+        },
+        {
+            "timestamp": "2026-09-16T21:22:29.428999",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 534.57
+        },
+        {
+            "timestamp": "2026-09-16T21:22:29.816702",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 215.53
+        },
+        {
+            "timestamp": "2026-09-16T21:22:30.777418",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 814.92
+        },
+        {
+            "timestamp": "2026-09-16T21:22:31.734302",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 682.91
+        },
+        {
+            "timestamp": "2026-09-16T21:22:32.280492",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 364.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:32.775088",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 255.94
+        },
+        {
+            "timestamp": "2026-09-16T21:22:33.517158",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 599.61
+        },
+        {
+            "timestamp": "2026-09-16T21:22:34.025124",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 353.77
+        },
+        {
+            "timestamp": "2026-09-16T21:22:34.649816",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 418.73
+        },
+        {
+            "timestamp": "2026-09-16T21:22:35.251592",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 446.69
+        },
+        {
+            "timestamp": "2026-09-16T21:22:36.049535",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 600.73
+        },
+        {
+            "timestamp": "2026-09-16T21:22:36.570753",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 368.93
+        },
+        {
+            "timestamp": "2026-09-16T21:22:37.088496",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 366.98
+        },
+        {
+            "timestamp": "2026-09-16T21:22:37.921164",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 544.25
+        },
+        {
+            "timestamp": "2026-09-16T21:22:39.045549",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 867.26
+        },
+        {
+            "timestamp": "2026-09-16T21:22:39.947535",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 641.21
+        },
+        {
+            "timestamp": "2026-09-16T21:22:41.000103",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 788.2
+        },
+        {
+            "timestamp": "2026-09-16T21:22:41.977120",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 762.76
+        },
+        {
+            "timestamp": "2026-09-16T21:22:43.140995",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 829.52
+        },
+        {
+            "timestamp": "2026-09-16T21:22:44.153079",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 657.13
+        },
+        {
+            "timestamp": "2026-09-16T21:22:45.115770",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 645.06
+        },
+        {
+            "timestamp": "2026-09-16T21:22:46.065315",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 609.29
+        },
+        {
+            "timestamp": "2026-09-16T21:22:46.854135",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 497.71
+        },
+        {
+            "timestamp": "2026-09-16T21:22:47.861733",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 844.4
+        },
+        {
+            "timestamp": "2026-09-16T21:22:48.826169",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 639.19
+        },
+        {
+            "timestamp": "2026-09-16T21:22:50.431520",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1397.73
+        },
+        {
+            "timestamp": "2026-09-16T21:22:51.057398",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 436.94
+        },
+        {
+            "timestamp": "2026-09-16T21:22:52.032061",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 627.95
+        },
+        {
+            "timestamp": "2026-09-16T21:22:52.726722",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 503.52
+        },
+        {
+            "timestamp": "2026-09-16T21:22:53.574349",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 592.31
+        },
+        {
+            "timestamp": "2026-09-16T21:22:54.406374",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 663.84
+        },
+        {
+            "timestamp": "2026-09-16T21:22:54.775107",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 227.89
+        },
+        {
+            "timestamp": "2026-09-16T21:22:55.581473",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 498.51
+        },
+        {
+            "timestamp": "2026-09-16T21:22:56.314658",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 474.83
+        },
+        {
+            "timestamp": "2026-09-16T21:22:57.056048",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 491.09
+        },
+        {
+            "timestamp": "2026-09-16T21:22:57.892143",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 651.91
+        },
+        {
+            "timestamp": "2026-09-16T21:22:58.260184",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 216.62
+        },
+        {
+            "timestamp": "2026-09-16T21:22:58.763674",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 352.99
+        },
+        {
+            "timestamp": "2026-09-16T21:22:59.763076",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 765.88
+        },
+        {
+            "timestamp": "2026-09-16T21:23:00.780269",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 784.03
+        },
+        {
+            "timestamp": "2026-09-16T21:23:01.327801",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 387.46
+        },
+        {
+            "timestamp": "2026-09-16T21:23:01.993015",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 518.04
+        },
+        {
+            "timestamp": "2026-09-16T21:23:02.499416",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 230.17
+        },
+        {
+            "timestamp": "2026-09-16T21:23:03.356573",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 651.73
+        },
+        {
+            "timestamp": "2026-09-16T21:23:04.135149",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 523.16
+        },
+        {
+            "timestamp": "2026-09-16T21:23:04.548377",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 232.84
+        },
+        {
+            "timestamp": "2026-09-16T21:23:05.652842",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 956.16
+        },
+        {
+            "timestamp": "2026-09-16T21:23:06.546235",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 620.83
+        },
+        {
+            "timestamp": "2026-09-16T21:23:07.339259",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 522.94
+        },
+        {
+            "timestamp": "2026-09-16T21:23:08.075787",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 510.6
+        },
+        {
+            "timestamp": "2026-09-16T21:23:08.783025",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 481.98
+        },
+        {
+            "timestamp": "2026-09-16T21:23:09.575119",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 438.34
+        },
+        {
+            "timestamp": "2026-09-16T21:23:10.448452",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 692.24
+        },
+        {
+            "timestamp": "2026-09-16T21:23:10.953349",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 338.37
+        },
+        {
+            "timestamp": "2026-09-16T21:23:11.429727",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 333.58
+        },
+        {
+            "timestamp": "2026-09-16T21:23:12.016860",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 366.59
+        },
+        {
+            "timestamp": "2026-09-16T21:23:12.900892",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 614.28
+        },
+        {
+            "timestamp": "2026-09-16T21:23:13.422293",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 354.72
+        },
+        {
+            "timestamp": "2026-09-16T21:25:19.014988",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 521.52
+        },
+        {
+            "timestamp": "2026-09-16T21:25:20.373346",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 877.17
+        },
+        {
+            "timestamp": "2026-09-16T21:25:21.604350",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1056.18
+        },
+        {
+            "timestamp": "2026-09-16T21:25:23.269682",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1276.8
+        },
+        {
+            "timestamp": "2026-09-16T21:25:24.353283",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 875.89
+        },
+        {
+            "timestamp": "2026-09-16T21:25:25.819009",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1219.95
+        },
+        {
+            "timestamp": "2026-09-16T21:25:26.678273",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 639.46
+        },
+        {
+            "timestamp": "2026-09-16T21:25:27.797646",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 788.32
+        },
+        {
+            "timestamp": "2026-09-16T21:25:29.162897",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 937.07
+        },
+        {
+            "timestamp": "2026-09-16T21:25:30.316801",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 863.15
+        },
+        {
+            "timestamp": "2026-09-16T21:25:31.601588",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1089.11
+        },
+        {
+            "timestamp": "2026-09-16T21:25:32.723944",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 906.49
+        },
+        {
+            "timestamp": "2026-09-16T21:25:33.792592",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 677.29
+        },
+        {
+            "timestamp": "2026-09-16T21:25:34.906035",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 832.97
+        },
+        {
+            "timestamp": "2026-09-16T21:25:35.914441",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 796.33
+        },
+        {
+            "timestamp": "2026-09-16T21:25:37.491423",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1273.25
+        },
+        {
+            "timestamp": "2026-09-16T21:25:38.531682",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 697.05
+        },
+        {
+            "timestamp": "2026-09-16T21:25:39.731350",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 961.77
+        },
+        {
+            "timestamp": "2026-09-16T21:25:41.012783",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 944.25
+        },
+        {
+            "timestamp": "2026-09-16T21:25:42.442376",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1219.28
+        },
+        {
+            "timestamp": "2026-09-16T21:25:43.402692",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 638.47
+        },
+        {
+            "timestamp": "2026-09-16T21:25:44.593479",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 989.81
+        },
+        {
+            "timestamp": "2026-09-16T21:25:45.671930",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 782.06
+        },
+        {
+            "timestamp": "2026-09-16T21:25:46.859504",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 844.47
+        },
+        {
+            "timestamp": "2026-09-16T21:25:48.081005",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 817.25
+        },
+        {
+            "timestamp": "2026-09-16T21:25:49.266265",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 949.06
+        },
+        {
+            "timestamp": "2026-09-16T21:25:50.509101",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 954.88
+        },
+        {
+            "timestamp": "2026-09-16T21:25:52.303332",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1466.44
+        },
+        {
+            "timestamp": "2026-09-16T21:25:53.471570",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 946.47
+        },
+        {
+            "timestamp": "2026-09-16T21:25:54.566778",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 819.2
+        },
+        {
+            "timestamp": "2026-09-16T21:25:55.751437",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 945.44
+        },
+        {
+            "timestamp": "2026-09-16T21:25:56.939706",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 903.32
+        },
+        {
+            "timestamp": "2026-09-16T21:25:58.201958",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 949.7
+        },
+        {
+            "timestamp": "2026-09-16T21:25:59.444978",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 882.82
+        },
+        {
+            "timestamp": "2026-09-16T21:26:00.770346",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1140.75
+        },
+        {
+            "timestamp": "2026-09-16T21:26:01.882300",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 923.17
+        },
+        {
+            "timestamp": "2026-09-16T21:26:03.335061",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1167.65
+        },
+        {
+            "timestamp": "2026-09-16T21:26:04.383987",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 845.66
+        },
+        {
+            "timestamp": "2026-09-16T21:26:05.633690",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 982.64
+        },
+        {
+            "timestamp": "2026-09-16T21:26:07.587194",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1737.81
+        },
+        {
+            "timestamp": "2026-09-16T21:26:08.987454",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1183.11
+        },
+        {
+            "timestamp": "2026-09-16T21:26:10.248363",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 944.77
+        },
+        {
+            "timestamp": "2026-09-16T21:26:11.237869",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 808.81
+        },
+        {
+            "timestamp": "2026-09-16T21:26:12.880823",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1306.14
+        },
+        {
+            "timestamp": "2026-09-22T06:05:43.093301",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 2524.07
+        },
+        {
+            "timestamp": "2026-09-22T06:05:43.521051",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 263.27
+        },
+        {
+            "timestamp": "2026-09-22T06:05:43.945878",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 259.52
+        },
+        {
+            "timestamp": "2026-09-22T06:05:44.394655",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 271.2
+        },
+        {
+            "timestamp": "2026-09-22T06:05:44.760414",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 225.61
+        },
+        {
+            "timestamp": "2026-09-22T06:05:45.189342",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 269.27
+        },
+        {
+            "timestamp": "2026-09-22T06:05:45.567014",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 240.74
+        },
+        {
+            "timestamp": "2026-09-22T06:05:45.986979",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 255.08
+        },
+        {
+            "timestamp": "2026-09-22T06:05:46.410434",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 256.08
+        },
+        {
+            "timestamp": "2026-09-22T06:05:46.795820",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 239.42
+        },
+        {
+            "timestamp": "2026-09-22T06:05:47.210970",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 243.01
+        },
+        {
+            "timestamp": "2026-09-22T06:05:47.599293",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 252.96
+        },
+        {
+            "timestamp": "2026-09-22T06:05:47.993774",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 238.26
+        },
+        {
+            "timestamp": "2026-09-22T06:05:48.384935",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 228.2
+        },
+        {
+            "timestamp": "2026-09-22T06:05:48.757750",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 226.54
+        },
+        {
+            "timestamp": "2026-09-22T06:05:49.168599",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 245.66
+        },
+        {
+            "timestamp": "2026-09-22T06:05:49.579428",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 268.62
+        },
+        {
+            "timestamp": "2026-09-22T06:05:49.990596",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 244.61
+        },
+        {
+            "timestamp": "2026-09-22T06:05:50.459149",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 323.74
+        },
+        {
+            "timestamp": "2026-09-22T06:05:50.870232",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 240.24
+        },
+        {
+            "timestamp": "2026-09-22T06:05:51.304916",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 274.75
+        },
+        {
+            "timestamp": "2026-09-22T06:05:51.725395",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 283.67
+        },
+        {
+            "timestamp": "2026-09-22T06:05:52.168030",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 274.64
+        },
+        {
+            "timestamp": "2026-09-22T06:05:52.576822",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 268.58
+        },
+        {
+            "timestamp": "2026-09-22T06:05:53.011824",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 272.68
+        },
+        {
+            "timestamp": "2026-09-22T06:05:53.703829",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 521.95
+        },
+        {
+            "timestamp": "2026-09-22T06:05:54.396626",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 491.49
+        },
+        {
+            "timestamp": "2026-09-22T06:05:55.347044",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 765.13
+        },
+        {
+            "timestamp": "2026-09-22T06:05:58.285669",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 2586.23
+        },
+        {
+            "timestamp": "2026-09-22T06:06:00.798065",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 2004.67
+        },
+        {
+            "timestamp": "2026-09-22T06:06:01.696210",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 710.4
+        },
+        {
+            "timestamp": "2026-09-22T06:06:03.770505",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1694.12
+        },
+        {
+            "timestamp": "2026-09-22T06:06:06.271110",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1771.84
+        },
+        {
+            "timestamp": "2026-09-22T06:06:07.751228",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1173.21
+        },
+        {
+            "timestamp": "2026-09-22T06:06:09.260666",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1256.19
+        },
+        {
+            "timestamp": "2026-09-22T06:06:11.126026",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1385.3
+        },
+        {
+            "timestamp": "2026-09-22T06:06:11.542307",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 274.36
+        },
+        {
+            "timestamp": "2026-09-22T06:06:11.929792",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 225.25
+        },
+        {
+            "timestamp": "2026-09-22T06:06:12.353444",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 258.49
+        },
+        {
+            "timestamp": "2026-09-22T06:06:12.710425",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 221.46
+        },
+        {
+            "timestamp": "2026-09-22T06:06:13.109142",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 236.04
+        },
+        {
+            "timestamp": "2026-09-22T06:06:13.510896",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 253.24
+        },
+        {
+            "timestamp": "2026-09-22T06:06:13.905867",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 232.87
+        },
+        {
+            "timestamp": "2026-09-22T06:06:14.399582",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 325.31
+        },
+        {
+            "timestamp": "2026-09-22T06:06:14.788522",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 246.04
+        },
+        {
+            "timestamp": "2026-09-22T06:06:15.203806",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 257.4
+        },
+        {
+            "timestamp": "2026-09-22T06:06:15.606731",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 264.19
+        },
+        {
+            "timestamp": "2026-09-22T06:06:16.005985",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 240.82
+        },
+        {
+            "timestamp": "2026-09-22T06:06:16.444802",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 263.61
+        },
+        {
+            "timestamp": "2026-09-22T06:06:16.878150",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 269.35
+        },
+        {
+            "timestamp": "2026-09-22T06:06:17.304276",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 268.21
+        },
+        {
+            "timestamp": "2026-09-22T06:06:17.701934",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 259.49
+        },
+        {
+            "timestamp": "2026-09-22T06:06:18.503019",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 255.76
+        },
+        {
+            "timestamp": "2026-09-22T06:06:18.922763",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 255.2
+        },
+        {
+            "timestamp": "2026-09-22T06:06:19.344384",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 259.89
+        },
+        {
+            "timestamp": "2026-09-22T06:06:19.731256",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 254.59
+        },
+        {
+            "timestamp": "2026-09-22T06:06:20.143030",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 252.41
+        },
+        {
+            "timestamp": "2026-09-22T06:06:20.534568",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 259.23
+        },
+        {
+            "timestamp": "2026-09-22T06:06:20.950167",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 252.26
+        },
+        {
+            "timestamp": "2026-09-22T06:06:21.404884",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 288.43
+        },
+        {
+            "timestamp": "2026-09-22T06:06:21.769572",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 224.77
+        },
+        {
+            "timestamp": "2026-09-22T06:06:22.173483",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 243.89
+        },
+        {
+            "timestamp": "2026-09-22T06:06:22.604327",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 294.96
+        },
+        {
+            "timestamp": "2026-09-22T06:06:22.996885",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 236.83
+        },
+        {
+            "timestamp": "2026-09-22T06:06:23.405313",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 236.74
+        },
+        {
+            "timestamp": "2026-09-22T06:06:23.787283",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 251.91
+        },
+        {
+            "timestamp": "2026-09-22T06:06:24.205267",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 249.26
+        },
+        {
+            "timestamp": "2026-09-22T06:06:24.599135",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 253.32
+        },
+        {
+            "timestamp": "2026-09-22T06:06:25.026411",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 268.14
+        },
+        {
+            "timestamp": "2026-09-22T06:06:25.420845",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 230.49
+        },
+        {
+            "timestamp": "2026-09-22T06:06:25.814563",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 261.51
+        },
+        {
+            "timestamp": "2026-09-22T06:06:26.245004",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 263.6
+        },
+        {
+            "timestamp": "2026-09-22T06:06:26.680778",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 287.47
+        },
+        {
+            "timestamp": "2026-09-22T06:06:27.085692",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 241.98
+        },
+        {
+            "timestamp": "2026-09-22T06:06:27.490007",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 258.24
+        },
+        {
+            "timestamp": "2026-09-22T06:06:27.904587",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 249.02
+        },
+        {
+            "timestamp": "2026-09-22T06:06:28.331919",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 255.47
+        },
+        {
+            "timestamp": "2026-09-22T06:06:28.692450",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 228.51
+        },
+        {
+            "timestamp": "2026-09-22T06:06:29.113267",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 259.43
+        },
+        {
+            "timestamp": "2026-09-22T06:06:29.540733",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 281.54
+        },
+        {
+            "timestamp": "2026-09-22T06:06:29.976764",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 266.6
+        },
+        {
+            "timestamp": "2026-09-22T06:06:30.389915",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 254.87
+        },
+        {
+            "timestamp": "2026-09-22T06:06:30.848252",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 314.58
+        },
+        {
+            "timestamp": "2026-09-22T06:06:31.245410",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 235.14
+        },
+        {
+            "timestamp": "2026-09-22T06:06:31.687041",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 301.83
+        },
+        {
+            "timestamp": "2026-09-22T06:06:32.135027",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 279.9
+        },
+        {
+            "timestamp": "2026-09-22T06:06:32.507558",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 234.74
+        },
+        {
+            "timestamp": "2026-09-22T06:06:32.902958",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 229.45
+        },
+        {
+            "timestamp": "2026-09-22T06:06:33.291055",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 223.32
+        },
+        {
+            "timestamp": "2026-09-22T06:06:33.694926",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 268.7
+        },
+        {
+            "timestamp": "2026-09-22T06:06:34.104235",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 243.76
+        },
+        {
+            "timestamp": "2026-09-22T06:06:34.500760",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 256.52
+        },
+        {
+            "timestamp": "2026-09-22T06:06:34.922981",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 247.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:35.335665",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 258.81
+        },
+        {
+            "timestamp": "2026-09-22T06:06:35.720966",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 237.7
+        },
+        {
+            "timestamp": "2026-09-22T06:06:36.156253",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 252.19
+        },
+        {
+            "timestamp": "2026-09-22T06:06:36.547032",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 248.16
+        },
+        {
+            "timestamp": "2026-09-22T06:06:36.939090",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 233.5
+        },
+        {
+            "timestamp": "2026-09-22T06:06:37.369762",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 267.77
+        },
+        {
+            "timestamp": "2026-09-22T06:06:37.784502",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 271.81
+        },
+        {
+            "timestamp": "2026-09-22T06:06:38.225267",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 279.45
+        },
+        {
+            "timestamp": "2026-09-22T06:06:38.628245",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 260.04
+        },
+        {
+            "timestamp": "2026-09-22T06:06:39.052241",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 268.7
+        },
+        {
+            "timestamp": "2026-09-22T06:06:39.484063",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 287.43
+        },
+        {
+            "timestamp": "2026-09-22T06:06:39.868703",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 226.14
+        },
+        {
+            "timestamp": "2026-09-22T06:06:40.286904",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 242.82
+        },
+        {
+            "timestamp": "2026-09-22T06:06:40.671729",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 247.64
+        },
+        {
+            "timestamp": "2026-09-22T06:06:41.061335",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 227.27
+        },
+        {
+            "timestamp": "2026-09-22T06:06:41.458423",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 245.55
+        },
+        {
+            "timestamp": "2026-09-22T06:06:41.865179",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 238.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:42.281826",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 238.95
+        },
+        {
+            "timestamp": "2026-09-22T06:06:42.670037",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 247.64
+        },
+        {
+            "timestamp": "2026-09-22T06:06:43.059912",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 225.49
+        },
+        {
+            "timestamp": "2026-09-22T06:06:43.489864",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 286.47
+        },
+        {
+            "timestamp": "2026-09-22T06:06:43.884296",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 227.4
+        },
+        {
+            "timestamp": "2026-09-22T06:06:44.299990",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 256.46
+        },
+        {
+            "timestamp": "2026-09-22T06:06:44.700331",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 259.86
+        },
+        {
+            "timestamp": "2026-09-22T06:06:45.121652",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 262.36
+        },
+        {
+            "timestamp": "2026-09-22T06:06:45.511969",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 250.73
+        },
+        {
+            "timestamp": "2026-09-22T06:06:45.950835",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 278.4
+        },
+        {
+            "timestamp": "2026-09-22T06:06:46.344479",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 234.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:46.944124",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 467.22
+        },
+        {
+            "timestamp": "2026-09-22T06:06:47.617385",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 512.74
+        },
+        {
+            "timestamp": "2026-09-22T06:06:48.647081",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 784.43
+        },
+        {
+            "timestamp": "2026-09-22T06:06:50.342697",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1363.68
+        },
+        {
+            "timestamp": "2026-09-22T06:06:52.989012",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1915.24
+        },
+        {
+            "timestamp": "2026-09-22T06:06:54.447055",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1180.87
+        },
+        {
+            "timestamp": "2026-09-22T06:06:56.105629",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1357.29
+        },
+        {
+            "timestamp": "2026-09-22T06:06:58.637185",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 2153.86
+        },
+        {
+            "timestamp": "2026-09-22T06:07:02.999253",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 3992.62
+        },
+        {
+            "timestamp": "2026-09-22T06:07:04.380705",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 898.75
+        },
+        {
+            "timestamp": "2026-09-22T06:07:05.751838",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1149.55
+        },
+        {
+            "timestamp": "2026-09-22T06:07:07.375059",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1339.28
+        },
+        {
+            "timestamp": "2026-09-22T06:07:09.334422",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1558.69
+        },
+        {
+            "timestamp": "2026-09-22T06:07:10.923040",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1117.86
+        },
+        {
+            "timestamp": "2026-09-22T06:07:12.662549",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1369.22
+        },
+        {
+            "timestamp": "2026-09-22T06:07:14.373363",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1371.55
+        },
+        {
+            "timestamp": "2026-09-22T06:07:14.973326",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 440.91
+        },
+        {
+            "timestamp": "2026-09-22T06:07:15.675311",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 540.29
+        },
+        {
+            "timestamp": "2026-09-22T06:07:17.670035",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1773.36
+        },
+        {
+            "timestamp": "2026-09-22T06:07:21.435136",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1854.42
+        },
+        {
+            "timestamp": "2026-09-22T06:07:22.135298",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 488.24
+        },
+        {
+            "timestamp": "2026-09-22T06:07:22.909527",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 588.47
+        },
+        {
+            "timestamp": "2026-09-22T06:07:23.895896",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 785.47
+        },
+        {
+            "timestamp": "2026-09-22T06:07:25.377768",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1293.14
+        },
+        {
+            "timestamp": "2026-09-22T06:07:26.867370",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1032.5
+        },
+        {
+            "timestamp": "2026-09-22T06:07:28.613227",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1504.51
+        },
+        {
+            "timestamp": "2026-09-22T06:07:30.171485",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1355.5
+        },
+        {
+            "timestamp": "2026-09-22T06:07:31.270786",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 897.93
+        },
+        {
+            "timestamp": "2026-09-22T06:07:32.551901",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1043.72
+        },
+        {
+            "timestamp": "2026-09-22T06:07:34.195346",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1296.76
+        },
+        {
+            "timestamp": "2026-09-22T06:07:35.620388",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1142.69
+        },
+        {
+            "timestamp": "2026-09-22T06:07:37.229938",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1317.27
+        },
+        {
+            "timestamp": "2026-09-22T06:07:38.710556",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1124.63
+        },
+        {
+            "timestamp": "2026-09-22T06:07:40.127648",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1160.65
+        },
+        {
+            "timestamp": "2026-09-22T06:07:41.185333",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 897.54
+        },
+        {
+            "timestamp": "2026-09-22T06:07:42.503484",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1051.07
+        },
+        {
+            "timestamp": "2026-09-22T06:07:43.835846",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1055.43
+        },
+        {
+            "timestamp": "2026-09-22T06:07:45.246711",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1141.08
+        },
+        {
+            "timestamp": "2026-09-22T06:07:46.420705",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 844.45
+        },
+        {
+            "timestamp": "2026-09-22T06:07:47.561321",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 784.31
+        },
+        {
+            "timestamp": "2026-09-22T06:07:48.907337",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1033.12
+        },
+        {
+            "timestamp": "2026-09-22T06:07:50.181274",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1050.43
+        },
+        {
+            "timestamp": "2026-09-22T06:07:51.778102",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1385.09
+        },
+        {
+            "timestamp": "2026-09-22T06:07:52.788461",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 838.6
+        },
+        {
+            "timestamp": "2026-09-22T06:07:54.265993",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1200.19
+        },
+        {
+            "timestamp": "2026-09-22T06:07:55.593166",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1072.87
+        },
+        {
+            "timestamp": "2026-09-22T06:07:57.381010",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1549.54
+        },
+        {
+            "timestamp": "2026-09-22T06:07:59.097217",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1407.97
+        },
+        {
+            "timestamp": "2026-09-22T06:08:00.996458",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1550.79
+        },
+        {
+            "timestamp": "2026-09-22T06:08:02.200122",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 944.69
+        },
+        {
+            "timestamp": "2026-09-22T06:08:03.365740",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 869.78
+        },
+        {
+            "timestamp": "2026-09-22T06:08:04.679423",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 949.74
+        },
+        {
+            "timestamp": "2026-09-22T06:08:06.073507",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1218.92
+        },
+        {
+            "timestamp": "2026-09-22T06:08:07.612016",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1231.16
+        },
+        {
+            "timestamp": "2026-09-22T06:08:09.075866",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1218.02
+        },
+        {
+            "timestamp": "2026-09-22T06:08:09.694614",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 451.74
+        },
+        {
+            "timestamp": "2026-09-22T06:08:10.881462",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 976.6
+        },
+        {
+            "timestamp": "2026-09-22T06:08:12.005835",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 897.11
+        },
+        {
+            "timestamp": "2026-09-22T06:08:13.019218",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 834.08
+        },
+        {
+            "timestamp": "2026-09-22T06:08:14.529998",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1214.54
+        },
+        {
+            "timestamp": "2026-09-22T06:08:18.621570",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 3762.55
+        },
+        {
+            "timestamp": "2026-09-22T06:08:21.474297",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 2259.12
+        },
+        {
+            "timestamp": "2026-09-22T06:08:23.534195",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1668.04
+        },
+        {
+            "timestamp": "2026-09-22T06:08:25.608943",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1660.94
+        },
+        {
+            "timestamp": "2026-09-22T06:08:30.712887",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 4798.8
+        },
+        {
+            "timestamp": "2026-09-22T06:08:32.758489",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1327.11
+        },
+        {
+            "timestamp": "2026-09-22T06:08:34.492074",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1266.58
+        },
+        {
+            "timestamp": "2026-09-22T06:08:35.819089",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1017.36
+        },
+        {
+            "timestamp": "2026-09-22T06:08:37.155283",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1097.83
+        },
+        {
+            "timestamp": "2026-09-22T06:08:38.645596",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1230.82
+        },
+        {
+            "timestamp": "2026-09-22T06:08:40.095893",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1136.95
+        },
+        {
+            "timestamp": "2026-09-22T06:08:41.843659",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1452.5
+        },
+        {
+            "timestamp": "2026-09-22T06:08:43.387084",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1356.14
+        },
+        {
+            "timestamp": "2026-09-22T06:08:45.033408",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1252.46
+        },
+        {
+            "timestamp": "2026-09-22T06:08:46.432120",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1224.08
+        },
+        {
+            "timestamp": "2026-09-22T06:08:47.625989",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 788.27
+        },
+        {
+            "timestamp": "2026-09-22T06:08:49.061394",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1140.41
+        },
+        {
+            "timestamp": "2026-09-22T06:08:50.330645",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1050.09
+        },
+        {
+            "timestamp": "2026-09-22T06:08:51.604794",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1064.25
+        },
+        {
+            "timestamp": "2026-09-22T06:08:53.504018",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1220.23
+        },
+        {
+            "timestamp": "2026-09-22T06:08:55.047602",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1164.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:55.845766",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 592.49
+        },
+        {
+            "timestamp": "2026-09-22T06:08:56.788069",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 767.86
+        },
+        {
+            "timestamp": "2026-09-22T06:08:58.271052",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1191.1
+        },
+        {
+            "timestamp": "2026-09-22T06:08:59.725625",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 752.63
+        },
+        {
+            "timestamp": "2026-09-22T06:09:00.687559",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 573.44
+        },
+        {
+            "timestamp": "2026-09-22T06:09:01.518645",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 530.9
+        },
+        {
+            "timestamp": "2026-09-22T06:09:02.251536",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 499.16
+        },
+        {
+            "timestamp": "2026-09-22T06:09:02.977688",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 544.5
+        },
+        {
+            "timestamp": "2026-09-22T06:09:03.638464",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 486.66
+        },
+        {
+            "timestamp": "2026-09-22T06:09:04.337149",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 505.95
+        },
+        {
+            "timestamp": "2026-09-22T06:09:05.993678",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1325.6
+        },
+        {
+            "timestamp": "2026-09-22T06:09:07.736453",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1439.98
+        },
+        {
+            "timestamp": "2026-09-22T06:09:08.950629",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1011.58
+        },
+        {
+            "timestamp": "2026-09-22T06:09:10.972643",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1802.47
+        },
+        {
+            "timestamp": "2026-09-22T06:09:12.737737",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1500.25
+        },
+        {
+            "timestamp": "2026-09-22T06:09:15.378144",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 2324.43
+        },
+        {
+            "timestamp": "2026-09-22T06:09:17.341609",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1425.48
+        },
+        {
+            "timestamp": "2026-09-22T06:09:19.332564",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1471.65
+        },
+        {
+            "timestamp": "2026-09-22T06:09:21.197296",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1425.47
+        },
+        {
+            "timestamp": "2026-09-22T06:09:22.306986",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 845.26
+        },
+        {
+            "timestamp": "2026-09-22T06:09:23.659286",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1120.59
+        },
+        {
+            "timestamp": "2026-09-22T06:09:24.990479",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 624.53
+        },
+        {
+            "timestamp": "2026-09-22T06:09:25.753702",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 591.66
+        },
+        {
+            "timestamp": "2026-09-22T06:09:26.346772",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 393.86
+        },
+        {
+            "timestamp": "2026-09-22T06:09:26.831490",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 316.16
+        },
+        {
+            "timestamp": "2026-09-22T06:09:27.279038",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 283.25
+        },
+        {
+            "timestamp": "2026-09-22T06:09:27.671570",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 253.72
+        },
+        {
+            "timestamp": "2026-09-22T06:09:28.079470",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 243.48
+        },
+        {
+            "timestamp": "2026-09-22T06:09:28.511448",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 279.56
+        },
+        {
+            "timestamp": "2026-09-22T06:09:29.014300",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 315.27
+        },
+        {
+            "timestamp": "2026-09-22T06:09:29.421414",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 238.59
+        },
+        {
+            "timestamp": "2026-09-22T06:09:29.782205",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 227.58
+        },
+        {
+            "timestamp": "2026-09-22T06:09:30.185991",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 242.04
+        },
+        {
+            "timestamp": "2026-09-22T06:09:30.563036",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 239.6
+        },
+        {
+            "timestamp": "2026-09-22T06:09:31.010132",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 279.43
+        },
+        {
+            "timestamp": "2026-09-22T06:09:31.414653",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 242.09
+        },
+        {
+            "timestamp": "2026-09-22T06:09:31.784026",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 235.27
+        },
+        {
+            "timestamp": "2026-09-22T06:09:32.268114",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 310.27
+        },
+        {
+            "timestamp": "2026-09-22T06:09:32.706917",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 291.79
+        },
+        {
+            "timestamp": "2026-09-22T06:09:33.121324",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 242.16
+        },
+        {
+            "timestamp": "2026-09-22T06:09:33.538240",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 287.24
+        },
+        {
+            "timestamp": "2026-09-22T06:09:34.064970",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 354.39
+        },
+        {
+            "timestamp": "2026-09-22T06:09:34.483979",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 256.39
+        },
+        {
+            "timestamp": "2026-09-22T06:09:34.907681",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 261.63
+        },
+        {
+            "timestamp": "2026-09-22T06:09:35.433875",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 339.23
+        },
+        {
+            "timestamp": "2026-09-22T06:09:35.875283",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 293.44
+        },
+        {
+            "timestamp": "2026-09-22T06:09:36.324388",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 270.58
+        },
+        {
+            "timestamp": "2026-09-22T06:09:36.694722",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 223.77
+        },
+        {
+            "timestamp": "2026-09-22T06:09:37.126514",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 269.6
+        },
+        {
+            "timestamp": "2026-09-22T06:09:37.519795",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 250.55
+        },
+        {
+            "timestamp": "2026-09-22T06:09:37.945526",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 241.95
+        },
+        {
+            "timestamp": "2026-09-22T06:09:38.340474",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 232.46
+        },
+        {
+            "timestamp": "2026-09-22T06:09:38.760319",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 266.65
+        },
+        {
+            "timestamp": "2026-09-22T06:09:39.197120",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 270.87
+        },
+        {
+            "timestamp": "2026-09-22T06:09:39.617216",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 276.79
+        },
+        {
+            "timestamp": "2026-09-22T06:09:40.014306",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 214.29
+        },
+        {
+            "timestamp": "2026-09-22T06:09:40.432606",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 248.46
+        },
+        {
+            "timestamp": "2026-09-22T06:09:40.885994",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 290.11
+        },
+        {
+            "timestamp": "2026-09-22T06:09:41.281453",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 235.25
+        },
+        {
+            "timestamp": "2026-09-22T06:09:41.674036",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 246.65
+        },
+        {
+            "timestamp": "2026-09-22T06:09:42.114263",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 263.64
+        },
+        {
+            "timestamp": "2026-09-22T06:09:42.553819",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 295.08
+        },
+        {
+            "timestamp": "2026-09-22T06:09:42.940707",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 230.63
+        },
+        {
+            "timestamp": "2026-09-22T06:09:43.369802",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 263.42
+        },
+        {
+            "timestamp": "2026-09-22T06:09:43.764686",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 255.85
+        },
+        {
+            "timestamp": "2026-09-22T06:09:44.207899",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 279.44
+        },
+        {
+            "timestamp": "2026-09-22T06:09:44.628497",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 280.79
+        },
+        {
+            "timestamp": "2026-09-22T06:09:45.060999",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 265.36
+        },
+        {
+            "timestamp": "2026-09-22T06:09:45.486770",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 288.02
+        },
+        {
+            "timestamp": "2026-09-22T06:09:45.873466",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 221.91
+        },
+        {
+            "timestamp": "2026-09-22T06:09:46.264117",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 225.75
+        },
+        {
+            "timestamp": "2026-09-22T06:09:46.643651",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 245.73
+        },
+        {
+            "timestamp": "2026-09-22T06:09:47.029453",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 230.74
+        },
+        {
+            "timestamp": "2026-09-22T06:09:47.440651",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 257.03
+        },
+        {
+            "timestamp": "2026-09-22T06:10:25.582874",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 448.29
+        },
+        {
+            "timestamp": "2026-09-22T06:10:25.961902",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 218.33
+        },
+        {
+            "timestamp": "2026-09-22T06:10:26.520158",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 378.49
+        },
+        {
+            "timestamp": "2026-09-22T06:10:27.130975",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 360.52
+        },
+        {
+            "timestamp": "2026-09-22T06:10:27.875478",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 436.34
+        },
+        {
+            "timestamp": "2026-09-22T06:10:28.585661",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 426.18
+        },
+        {
+            "timestamp": "2026-09-22T06:10:30.084956",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 419.74
+        },
+        {
+            "timestamp": "2026-09-22T06:10:30.514472",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 266.12
+        },
+        {
+            "timestamp": "2026-09-22T06:10:34.769002",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 357.14
+        },
+        {
+            "timestamp": "2026-09-22T06:10:36.275609",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1328.93
+        },
+        {
+            "timestamp": "2026-09-22T06:10:38.377387",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1697.96
+        },
+        {
+            "timestamp": "2026-09-22T06:10:40.437638",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1479.73
+        },
+        {
+            "timestamp": "2026-09-22T06:10:41.042840",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 418.49
+        },
+        {
+            "timestamp": "2026-09-22T06:10:41.626202",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 372.97
+        },
+        {
+            "timestamp": "2026-09-22T06:10:42.290574",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 465.19
+        },
+        {
+            "timestamp": "2026-09-22T06:10:43.394473",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 885.33
+        },
+        {
+            "timestamp": "2026-09-22T06:10:45.337898",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 1749.32
+        },
+        {
+            "timestamp": "2026-09-22T06:10:45.981170",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 293.38
+        },
+        {
+            "timestamp": "2026-09-22T06:10:46.391593",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 241.78
+        },
+        {
+            "timestamp": "2026-09-22T06:10:46.793138",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 237.39
+        },
+        {
+            "timestamp": "2026-09-22T06:10:47.220162",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 257.22
+        },
+        {
+            "timestamp": "2026-09-22T06:10:47.626650",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 242.97
+        },
+        {
+            "timestamp": "2026-09-22T06:10:48.033610",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 241.53
+        },
+        {
+            "timestamp": "2026-09-22T06:10:48.419577",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 233.38
+        },
+        {
+            "timestamp": "2026-09-22T06:10:48.855786",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 279.51
+        },
+        {
+            "timestamp": "2026-09-22T06:10:49.247631",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 232.5
+        },
+        {
+            "timestamp": "2026-09-22T06:10:49.649778",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 271.07
+        },
+        {
+            "timestamp": "2026-09-22T06:10:50.140266",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 328.66
+        },
+        {
+            "timestamp": "2026-09-22T06:10:50.605884",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 309.48
+        },
+        {
+            "timestamp": "2026-09-22T06:10:50.993254",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 223.63
+        },
+        {
+            "timestamp": "2026-09-22T06:10:51.451109",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 287.99
+        },
+        {
+            "timestamp": "2026-09-22T06:10:51.843366",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 227.5
+        },
+        {
+            "timestamp": "2026-09-22T06:10:52.265354",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 244.92
+        },
+        {
+            "timestamp": "2026-09-22T06:10:52.664436",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 240.4
+        },
+        {
+            "timestamp": "2026-09-22T06:10:53.075741",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 248.72
+        },
+        {
+            "timestamp": "2026-09-22T06:10:53.508572",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 260.21
+        },
+        {
+            "timestamp": "2026-09-22T06:10:53.916316",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 229.27
+        },
+        {
+            "timestamp": "2026-09-22T06:10:54.349723",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 265.57
+        },
+        {
+            "timestamp": "2026-09-22T06:10:54.793251",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 274.01
+        },
+        {
+            "timestamp": "2026-09-22T06:10:55.246776",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 264.89
+        },
+        {
+            "timestamp": "2026-09-22T06:10:55.668487",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 260.07
+        },
+        {
+            "timestamp": "2026-09-22T06:10:56.106194",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 276.22
+        },
+        {
+            "timestamp": "2026-09-22T06:10:56.511521",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 246.05
+        },
+        {
+            "timestamp": "2026-09-22T06:10:56.933928",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 253.98
+        },
+        {
+            "timestamp": "2026-09-22T06:10:57.375784",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 267.95
+        },
+        {
+            "timestamp": "2026-09-22T06:10:57.799681",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 251.34
+        },
+        {
+            "timestamp": "2026-09-22T06:10:58.253456",
+            "confidence": 100.0,
+            "label": "DROWNING",
+            "inference_ms": 280.04
+        },
+        {
+            "timestamp": "2026-09-22T06:10:58.708014",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 279.84
+        },
+        {
+            "timestamp": "2026-09-22T06:10:59.165362",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 259.51
+        },
+        {
+            "timestamp": "2026-09-22T06:10:59.647910",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 319.2
+        },
+        {
+            "timestamp": "2026-09-22T06:11:00.076726",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 267.8
+        },
+        {
+            "timestamp": "2026-09-22T06:11:00.494798",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 239.66
+        },
+        {
+            "timestamp": "2026-09-22T06:11:00.915960",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 241.13
+        },
+        {
+            "timestamp": "2026-09-22T06:11:02.524053",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 1388.83
+        },
+        {
+            "timestamp": "2026-09-22T06:11:05.630546",
+            "confidence": 100.0,
+            "label": "NON-DROWNING",
+            "inference_ms": 2834.33
+        }
+    ],
+    "prediction_history": [
+        {
+            "timestamp": "2026-09-16T21:21:41.363372",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:42.172698",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:42.721104",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:43.487373",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:44.265502",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:45.042448",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:45.603495",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:46.319403",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:47.227962",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:47.965206",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:48.640885",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:49.295400",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:49.802110",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:50.591960",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:51.164825",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:51.801711",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:52.750922",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:53.367561",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:54.076852",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:54.637773",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:55.669199",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:56.481210",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:57.233653",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:57.631510",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:58.367429",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:58.964274",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:21:59.706081",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:00.537665",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:01.440776",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:02.266053",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:03.037232",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:03.951224",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:04.474780",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:05.234658",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:06.037751",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:06.559345",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:07.444203",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:08.377536",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:09.173088",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:09.771581",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:10.393531",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:10.808892",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:11.521920",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:12.299008",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:12.908940",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:13.662446",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:14.571314",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:15.272520",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:16.263672",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:16.725360",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:17.438210",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:18.330712",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:18.830289",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:19.319010",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:19.861047",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:20.448308",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:21.062000",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:21.823531",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:22.332094",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:22.813872",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:24.303070",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:24.823587",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:25.431177",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:26.079237",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:26.993135",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:27.816650",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:28.671739",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:29.428999",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:29.816702",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:30.777418",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:31.734302",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:32.280492",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:32.775088",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:33.517158",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:34.025124",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:34.649816",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:35.251592",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:36.049535",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:36.570753",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:37.088496",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:37.921164",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:39.045549",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:39.947535",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:41.000103",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:41.977120",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:43.140995",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:44.153079",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:45.115770",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:46.065315",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:46.854135",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:47.861733",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:48.826169",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:50.431520",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:51.057398",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:52.032061",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:52.726722",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:53.574349",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:54.406374",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:54.775107",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:55.581473",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:56.314658",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:57.056048",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:57.892143",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:58.260184",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:58.763674",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:22:59.763076",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:00.780269",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:01.327801",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:01.993015",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:02.499416",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:03.356573",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:04.135149",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:04.548377",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:05.652842",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:06.546235",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:07.339259",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:08.075787",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:08.783025",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:09.575119",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:10.448452",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:10.953349",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:11.429727",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:12.016860",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:12.900892",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:23:13.422293",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:19.014988",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:20.373346",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:21.604350",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:23.269682",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:24.353283",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:25.819009",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:26.678273",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:27.797646",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:29.162897",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:30.316801",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:31.601588",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:32.723944",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:33.792592",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:34.906035",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:35.914441",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:37.491423",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:38.531682",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:39.731350",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:41.012783",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:42.442376",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:43.402692",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:44.593479",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:45.671930",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:46.859504",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:48.081005",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:49.266265",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:50.509101",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:52.303332",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:53.471570",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:54.566778",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:55.751437",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:56.939706",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:58.201958",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:25:59.444978",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:26:00.770346",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:26:01.882300",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:26:03.335061",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:26:04.383987",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:26:05.633690",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:26:07.587194",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:26:08.987454",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:26:10.248363",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:26:11.237869",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-16T21:26:12.880823",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:43.093301",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:43.521051",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:43.945878",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:44.394655",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:44.760414",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:45.189342",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:45.567014",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:45.986979",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:46.410434",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:46.795820",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:47.210970",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:47.599293",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:47.993774",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:48.384935",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:48.757750",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:49.168599",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:49.579428",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:49.990596",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:50.459149",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:50.870232",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:51.304916",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:51.725395",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:52.168030",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:52.576822",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:53.011824",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:53.703829",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:54.396626",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:55.347044",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:05:58.285669",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:00.798065",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:01.696210",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:03.770505",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:06.271110",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:07.751228",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:09.260666",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:11.126026",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:11.542307",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:11.929792",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:12.353444",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:12.710425",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:13.109142",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:13.510896",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:13.905867",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:14.399582",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:14.788522",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:15.203806",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:15.606731",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:16.005985",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:16.444802",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:16.878150",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:17.304276",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:17.701934",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:18.503019",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:18.922763",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:19.344384",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:19.731256",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:20.143030",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:20.534568",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:20.950167",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:21.404884",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:21.769572",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:22.173483",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:22.604327",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:22.996885",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:23.405313",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:23.787283",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:24.205267",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:24.599135",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:25.026411",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:25.420845",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:25.814563",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:26.245004",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:26.680778",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:27.085692",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:27.490007",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:27.904587",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:28.331919",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:28.692450",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:29.113267",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:29.540733",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:29.976764",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:30.389915",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:30.848252",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:31.245410",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:31.687041",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:32.135027",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:32.507558",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:32.902958",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:33.291055",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:33.694926",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:34.104235",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:34.500760",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:34.922981",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:35.335665",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:35.720966",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:36.156253",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:36.547032",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:36.939090",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:37.369762",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:37.784502",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:38.225267",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:38.628245",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:39.052241",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:39.484063",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:39.868703",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:40.286904",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:40.671729",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:41.061335",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:41.458423",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:41.865179",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:42.281826",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:42.670037",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:43.059912",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:43.489864",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:43.884296",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:44.299990",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:44.700331",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:45.121652",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:45.511969",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:45.950835",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:46.344479",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:46.944124",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:47.617385",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:48.647081",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:50.342697",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:52.989012",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:54.447055",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:56.105629",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:06:58.637185",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:02.999253",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:04.380705",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:05.751838",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:07.375059",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:09.334422",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:10.923040",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:12.662549",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:14.373363",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:14.973326",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:15.675311",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:17.670035",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:21.435136",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:22.135298",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:22.909527",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:23.895896",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:25.377768",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:26.867370",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:28.613227",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:30.171485",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:31.270786",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:32.551901",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:34.195346",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:35.620388",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:37.229938",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:38.710556",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:40.127648",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:41.185333",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:42.503484",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:43.835846",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:45.246711",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:46.420705",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:47.561321",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:48.907337",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:50.181274",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:51.778102",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:52.788461",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:54.265993",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:55.593166",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:57.381010",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:07:59.097217",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:00.996458",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:02.200122",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:03.365740",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:04.679423",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:06.073507",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:07.612016",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:09.075866",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:09.694614",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:10.881462",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:12.005835",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:13.019218",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:14.529998",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:18.621570",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:21.474297",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:23.534195",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:25.608943",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:30.712887",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:32.758489",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:34.492074",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:35.819089",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:37.155283",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:38.645596",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:40.095893",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:41.843659",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:43.387084",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:45.033408",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:46.432120",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:47.625989",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:49.061394",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:50.330645",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:51.604794",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:53.504018",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:55.047602",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:55.845766",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:56.788069",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:58.271052",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:08:59.725625",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:00.687559",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:01.518645",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:02.251536",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:02.977688",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:03.638464",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:04.337149",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:05.993678",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:07.736453",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:08.950629",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:10.972643",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:12.737737",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:15.378144",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:17.341609",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:19.332564",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:21.197296",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:22.306986",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:23.659286",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:24.990479",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:25.753702",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:26.346772",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:26.831490",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:27.279038",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:27.671570",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:28.079470",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:28.511448",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:29.014300",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:29.421414",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:29.782205",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:30.185991",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:30.563036",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:31.010132",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:31.414653",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:31.784026",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:32.268114",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:32.706917",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:33.121324",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:33.538240",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:34.064970",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:34.483979",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:34.907681",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:35.433875",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:35.875283",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:36.324388",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:36.694722",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:37.126514",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:37.519795",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:37.945526",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:38.340474",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:38.760319",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:39.197120",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:39.617216",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:40.014306",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:40.432606",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:40.885994",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:41.281453",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:41.674036",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:42.114263",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:42.553819",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:42.940707",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:43.369802",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:43.764686",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:44.207899",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:44.628497",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:45.060999",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:45.486770",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:45.873466",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:46.264117",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:46.643651",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:47.029453",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:09:47.440651",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:25.582874",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:25.961902",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:26.520158",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:27.130975",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:27.875478",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:28.585661",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:30.084956",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:30.514472",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:34.769002",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:36.275609",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:38.377387",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:40.437638",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:41.042840",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:41.626202",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:42.290574",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:43.394473",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:45.337898",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:45.981170",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:46.391593",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:46.793138",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:47.220162",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:47.626650",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:48.033610",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:48.419577",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:48.855786",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:49.247631",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:49.649778",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:50.140266",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:50.605884",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:50.993254",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:51.451109",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:51.843366",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:52.265354",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:52.664436",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:53.075741",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:53.508572",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:53.916316",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:54.349723",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:54.793251",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:55.246776",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:55.668487",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:56.106194",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:56.511521",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:56.933928",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:57.375784",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:57.799681",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:58.253456",
+            "label": "DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:58.708014",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:59.165362",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:10:59.647910",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:11:00.076726",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:11:00.494798",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:11:00.915960",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:11:02.524053",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        },
+        {
+            "timestamp": "2026-09-22T06:11:05.630546",
+            "label": "NON-DROWNING",
+            "confidence": 100.0
+        }
+    ]
+}

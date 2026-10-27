@@ -1,0 +1,29 @@
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Build output
+dist/
+build/
+
+# Editor files
+.vscode/
+.idea/
+
+# Local logs
+*.log
+
+# Large trained AI model
+backend/model/trained_model.h5
